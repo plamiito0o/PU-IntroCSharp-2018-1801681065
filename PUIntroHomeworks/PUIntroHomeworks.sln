@@ -17,11 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateWeightInTheSolarSy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecartCoordinates", "DecartCoordinates\DecartCoordinates.csproj", "{BC5D4A14-BCE4-47AA-9C0A-2AE27E653DB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTicketLuckyNumbers", "BusTicketLuckyNumbers\BusTicketLuckyNumbers.csproj", "{BA3101BD-5F6E-43CC-9AEA-51629066B13C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusTicketLuckyNumbers", "BusTicketLuckyNumbers\BusTicketLuckyNumbers.csproj", "{BA3101BD-5F6E-43CC-9AEA-51629066B13C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiserPiggy", "MiserPiggy\MiserPiggy.csproj", "{72F853C3-1A44-4C55-A086-76797DD53560}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiserPiggy", "MiserPiggy\MiserPiggy.csproj", "{72F853C3-1A44-4C55-A086-76797DD53560}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDeckOfCards", "SimpleDeckOfCards\SimpleDeckOfCards.csproj", "{3A24E0FB-E7EF-4CE1-BEDE-9535087C67F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleDeckOfCards", "SimpleDeckOfCards\SimpleDeckOfCards.csproj", "{3A24E0FB-E7EF-4CE1-BEDE-9535087C67F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSomeIntegers", "WorkingWithSomeIntegers\WorkingWithSomeIntegers.csproj", "{BB8C6679-87F9-4A6E-A64E-F5F21CAAF93C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSomeLetters", "WorkingWithSomeLetters\WorkingWithSomeLetters.csproj", "{A2B59E86-4581-46C0-8F9D-EAE0CDC23230}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{3A24E0FB-E7EF-4CE1-BEDE-9535087C67F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A24E0FB-E7EF-4CE1-BEDE-9535087C67F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A24E0FB-E7EF-4CE1-BEDE-9535087C67F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8C6679-87F9-4A6E-A64E-F5F21CAAF93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8C6679-87F9-4A6E-A64E-F5F21CAAF93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8C6679-87F9-4A6E-A64E-F5F21CAAF93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8C6679-87F9-4A6E-A64E-F5F21CAAF93C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B59E86-4581-46C0-8F9D-EAE0CDC23230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B59E86-4581-46C0-8F9D-EAE0CDC23230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B59E86-4581-46C0-8F9D-EAE0CDC23230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B59E86-4581-46C0-8F9D-EAE0CDC23230}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
